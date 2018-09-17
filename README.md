@@ -4,15 +4,13 @@ Material zum Workshop "Roboter-Lokalisierung" von [Frank Grimm](fh-zwickau.de/~f
 
 ----
 
-# Online-Zugriff (keine Installation notwendig)
+# 1a. Online-Zugriff (keine Installation notwendig)
 
 Einfach diesen Button klicken [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/whzinformatik/lerncamp2018/master?filepath=jupyter_notebooks) und online (auf https://mybinder.org/) die beiden Jupyter-Notebooks `1_lokalisierung1d.ipynb` und `2_lokalisierung1d_verrauscht.ipynb` ausführen.
 
-[Hier gibt es mehr Informationen zu Jupyter-Notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb#Overview-of-the-Notebook-UI).
-
 ----
 
-# Installation auf dem eigenen Rechner
+# 1b. Installation auf dem eigenen Rechner
 
 1. [Miniconda installieren](https://conda.io/miniconda.html)
 2. Python-Umgebung erzeugen mit dem Kommandozeilenbefehl `conda create -n lerncamp2018 python=3.6 matplotlib jupyter`
@@ -20,3 +18,7 @@ Einfach diesen Button klicken [![Binder](https://mybinder.org/badge.svg)](https:
 4. Jupyter starten mit dem Kommandozeilenbefehl `jupyter notebook`
 
 ----
+
+# 2. Juypter-Notebooks
+
+Wir verwenden Juypter für die Programmierung mit Python. [Hier gibt es mehr Informationen zu Jupyter-Notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb#Overview-of-the-Notebook-UI).
