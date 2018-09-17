@@ -1,6 +1,6 @@
 # Lerncamp 2018
 
-Material zum Workshop "Roboter-Lokalisierung" von [Frank Grimm](fh-zwickau.de/~fgr) und Philip Müller von der Fachgruppe [Informatik der Westsächsischen Hochschule Zwickau](http://informatik-zwickau.de/) beim Lerncamp 2018 des Gymnasiums Auerbach.
+Material zum Workshop "Roboter-Lokalisierung" von [Frank Grimm](https://fh-zwickau.de/~fgr) und Philip Müller von der Fachgruppe [Informatik der Westsächsischen Hochschule Zwickau](http://informatik-zwickau.de/) beim Lerncamp 2018 des Gymnasiums Auerbach.
 
 ----
 
