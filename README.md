@@ -6,7 +6,7 @@ Material zum Workshop "Roboter-Lokalisierung" von [Frank Grimm](fh-zwickau.de/~f
 
 # Online-Zugriff (keine Installation notwendig)
 
-Einfach diesen Button klicken [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/whzinformatik/lerncamp2018/master?filepath=jupyter_notebooks) und online die beiden Jupyter-Notebooks `1_lokalisierung1d.ipynb` und `2_lokalisierung1d_verrauscht.ipynb` online ausführen.
+Einfach diesen Button klicken [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/whzinformatik/lerncamp2018/master?filepath=jupyter_notebooks) und online (auf https://mybinder.org/) die beiden Jupyter-Notebooks `1_lokalisierung1d.ipynb` und `2_lokalisierung1d_verrauscht.ipynb` online ausführen.
 
 [Hier gibt es mehr Informationen zu Jupyter-Notebooks](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb#Overview-of-the-Notebook-UI).
 
